@@ -1,0 +1,16 @@
+start xidb with ArcheNomicon
+
+create the ArcheNomicon project on github
+commit the following docs:
+
+1 ArcheNomicon Rules (empty)
+2 user David McFadzean (head link)
+3 Prop 1: microNomicon seed rule 1 sponsored by me
+4 vote 1 (refs Prop 1, inits my vote to 0.5)
+5 revise vote 1, changing my vote to 1
+6 revise Rules, add seed rule 1
+7 repeat 3-6 for seed rules 2, 3, 4
+8 start adding xidb rules
+9 start adding source code to implement rules
+10 revise this plan as we learn, and to keep of record of how xidb evolved
+11 repeat 8-10 until xidb comes to life (so that the System contains its own source code and development policy)
