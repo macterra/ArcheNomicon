@@ -1,0 +1,21 @@
+
+Anyone can publish a new revision of a document just by forking it.
+When a document is forked, it gets a new owner.
+
+However only authorized IDs can publish an official new revision of a document (new HEAD)
+The document itself will contain permissions and voting procedures.
+The owner of a Document is an ID which may be an individual or a group
+The revision permissions will specify who can start a vote and what kind of votes are possible
+
+In the simplest case the Document will be owned by an individual in which case the vote is by fiat, i.e. the owner may publish a new revision just by specifying the new Document
+
+The next simplest case is when the Document is owned by a group where anyone is the group can publish a new revision by fiat.
+
+More complex votes are easily possible:
+
+	* unanimous vote
+	* majority vote
+	* 2/3 vote
+	* majority vote with a subset of the group having veto power
+	* majority vote where some members get extra votes
+	* meridion vote where voting weight depends on reputation

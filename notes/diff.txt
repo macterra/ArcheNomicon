@@ -1,0 +1,13 @@
+The System will have to be able to display the difference between any 2 Documents
+
+If one Document is an ancestor of the other than it is fairly easy to show all the step involved in changing one to the other
+
+If the Documents are the same type (e.g. text files, image files) then an off-the-shelf difference can be used
+
+If the Documents are different types, can we discover a transform to convert them to the same type before comparing?
+
+If not, what can we glean from the metadata? 
+
+	* Different authors?
+	* Different publishers?
+	* Different publication dates?

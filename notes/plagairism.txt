@@ -1,0 +1,5 @@
+Anyone can clone any Document, provided they keep a reference to the original
+
+If someone copies the Document without attribution, the System will make it easy to detect the plagiarism by comparing Documents
+
+For example it will show that Document A was published before Document B, yet B has no attribution and the differences are too small (as defined by the rules against plagiarism)

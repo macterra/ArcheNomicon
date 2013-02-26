@@ -1,0 +1,87 @@
+An xidb agent has a 1-to-1 correspondence with a legal agent, that is a person under the law
+
+An xidb agent will be distinguished by a standard set of attributes, e.g.
+
+	* legal name
+	* parent agents
+	* date of birth
+	* date of death
+	* child agents
+
+
+(can Documents hold to the same criteria?)
+
+
+	* URI
+	* parent Documents
+	* date of publication
+	* date of withdrawal
+	* back links
+
+(maybe nice to one day support a feature to import an Evernote notebook)
+
+(maybe a pseudonym agent will have just one "parent" back to the real person
+
+<relations>
+  <id type="parent, child, pseudo-nym-of, member-of-group">
+</relations>
+
+e.g.
+
+<agent-id></agent-id> GUID? URI?
+<name>David Bruce McFadzean</name>
+<aliases>
+     <agent>alias1</alias>
+     <agent>alias2</alias>
+     <agent>alias3</alias>
+</aliases>
+<d-o-b>1966.04.16</d-o-b>
+<p-o-b>Edmonton, AB, Canada
+<SIN></SIN>
+<pubkey></pubkey>
+<relations> and affiliations?
+  <id-dad type="parent">
+  <id-mother type="parent">
+  <id-tracy type="spouse">
+  <id-lucas type="child">
+  <id-synaptive type="employer">
+  <id-archetech type="group">
+</relations>
+<contact>
+  <email></email>
+  <phone></phone>
+  <address></address>
+</contact>
+
+A program can infer other relations (e.g. siblings, parents-in-law) by following links
+
+group agents may look like this
+
+<relations>
+  <uri>home page</uri>
+  <id-parent-group type="parent">
+  <id-member type="member1">
+  <id-member type="member2">
+  <id-member type="member3">
+  <id-member type="member4">
+</relations>
+
+agents may always be merged, split, connected, disconnected by updating relation links
+agents may always be corrected by updating values of links
+e.g. (oops, the real bio father is someone else, agent gets married or divorced, or has a child)
+
+The Org and System will try to ensure control of an xidb agent rests with the legal guardian
+
+The Org reserves the right to revise an xidb in order to restore control to the legal owner
+In effect the Org owns an agent's authentication credentials
+Petitions and appeals will be handled by the process described in ArcheNomicon
+
+When someone forks a group they can characterize the type of relation:
+
+	* schism
+	* subcomittee (added to subcommittee list)
+	* member added
+	* member removed
+
+Does it go without saying that the agent-id (owner) owns the Agent document?
+
