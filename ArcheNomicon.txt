@@ -3,17 +3,22 @@ start xidb with ArcheNomicon
 create the ArcheNomicon project on github
 commit the following docs:
 
-1 ArcheNomicon Rules (empty)
-2 user David McFadzean (head link)
-3 Prop 1: microNomicon seed rule 1 sponsored by me
-4 vote 1 (refs Prop 1, inits my vote to 0.5)
-5 revise vote 1, changing my vote to 1
-6 revise Rules, add seed rule 1
-7 repeat 3-6 for seed rules 2, 3, 4
-8 start adding xidb rules
-9 start adding source code to implement rules
-10 revise this plan as we learn, and to keep of record of how xidb evolved
-11 repeat 8-10 until xidb comes to life (so that the System contains its own source code and development policy)
+1 Add ArcheNomicon Rules (empty)
+2 create users
+    2.1 create user agent David McFadzean (agent ID generated at http://www.guidgenerator.com/)
+    2.2 create user agent Jonathan Kohl
+3 vote in microNomicon rules
+    3.1 publish SDG article
+    3.2 Prop 1: microNomicon seed rule 1 sponsored by me
+    3.3 vote 1 (refs Prop 1, inits my vote to 0.5)
+    3.4 revise vote 1, changing my vote to 1
+    3.5 revise Rules, add seed rule 1
+    3.6 repeat 3.2-3.5 for seed rules 2, 3, 4
+4 evolve microNomicon into xidb    
+    4.1 start adding xidb rules
+    4.2 start adding source code to implement rules
+    4.3 revise this plan as we learn, and to keep of record of how xidb evolved
+    4.4 repeat 4.1-4.3 until xidb comes to life (so that the System contains its own source code and development policy)
 
 ----
 
