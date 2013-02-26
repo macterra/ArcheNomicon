@@ -14,3 +14,19 @@ commit the following docs:
 9 start adding source code to implement rules
 10 revise this plan as we learn, and to keep of record of how xidb evolved
 11 repeat 8-10 until xidb comes to life (so that the System contains its own source code and development policy)
+
+----
+
+At some point in the future the xidb project can fork from ArcheTech, separating the private and public organizations
+or it may be simpler to add rules to Archetech for how to spawn a new instance of the Nomicon, with only general rules included.
+
+Document headers should contain
+
+	* last revision id of current version (so all future programs can tell which version of ArcheNomicon to use to interpret the document)
+	* publisher (group ID or single user ID)
+	* authors (group ID or a single user ID)
+	* timestamp
+
+
+eventually Documents will be published (digitally signed) by the publisher and the notarized (digitally signed) by the System
+perhaps all members of a Group will have access to the group's private key so that Documents signed with the group;s public key can only be viewed by members of the Group
