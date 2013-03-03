@@ -35,3 +35,37 @@ user informs System formally renouncing hacked ID
 System or org verifies 
 System informs authorities so they can update credential links
 
+
+headers:
+
+Store ids of docs containing refs
+
+Connection transaction revises links to point to each other
+
+<head>
+     <links>links doc id</links>
+</head>
+
+
+doc links
+
+<body>
+     <last-rev>id</last-rev>
+     <forks>
+          <fork>id</fork>
+          <fork>id</fork>
+          <fork>id</fork>
+     </forks>
+</body>
+
+agent links
+
+<body>
+     <last-rev>id</last-rev>
+     <groups>
+          <group>id</group>
+          <group>id</group>
+          <group>id</group>
+     </forks>
+</body>
+

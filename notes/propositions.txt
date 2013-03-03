@@ -1,0 +1,49 @@
+Instead of voting on propositions as documents separate from the rules,
+maybe vote on rule revisions.
+
+1. Fork the rules
+2. Change what you want to propose
+3. Vote to adopt the revised rules
+
+Voters will typically vote on diffs
+Diffs should be small and localized e.g. 
+
+	* adding a single rule
+	* amending a single rule
+	* repealing a single rule
+
+Where does commentary go?
+
+Or create a proposal doc
+Fork original
+Merge the two
+Discuss the proposal (adding comment pubs)
+Revise the proposal
+Remerge and revise until acceptable
+Vote on the final merge
+
+D1 is head rev of Document D
+
+P1 refs D1
+
+D2 forks D1
+D3 merges P1 into D2
+
+C1 comments on P1
+C2 comments on C1
+P2 incorporates C2
+
+D4 updates D3 with P2
+
+V1 inits vote referencing D4
+V2 records U1's vote
+V3 records U2's vote
+V4 records U3's vote
+V4 passes 
+
+D5 references V4
+
+HEAD of D updated to reference D5
+
+
+
