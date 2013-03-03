@@ -1,1 +1,15 @@
 ArcheNomicon refers both to this instance of a Nomicon game, and the system that supports the game.
+
+The underlying system is named xidb, the eXtensible Immutable Document Base.
+
+The vision is that the requirements, source code and binaries that define the System are all Documents in the Vault.
+
+Additionally the policy that governs the operation and ongoing development of the System is the game of ArcheNomicon that is implemented and supported by the System.
+
+The Vault refers to the entire database of Documents.
+
+Documents (capitalized) referes to xidb documents.
+
+The System refers to xidb technology and policy (what the users interact with)
+
+
