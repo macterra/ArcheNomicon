@@ -11,3 +11,34 @@ xish
 knows how to load and run other adapters
 
 
+e.g. verbatim adapater:
+
+<head>
+</head>
+<body>
+     <name>verbatim</name>
+     <type>application/xidb-adapter</type>
+     <description>output = input</description>
+
+     <platforms>
+          <platform>
+               <os>Ubuntu 10.4</os>
+               <vm>XID of vm</vm>
+               <path>/bin/cat</path>
+               <executable>XID of cat program doc</executable>
+               <command-line>%PATH < %XID</command-line>
+          </platform>
+          <platform>
+               <os>windows 7</os>
+               <command-line>path to cat-like executable %XID</command-line>
+          </platform>
+     </platforms>
+<body>
+
+The idea is that the adapter Doc will contain enough info and links for the System to 
+be able to execute a specific version of the program on any supported platform.
+The Document may (should?) also contain all info needed to rebuild the executable from source.
+
+The executable will likely be cached, but if it hasn't been used for too long it may have been garbage collected.
+Then the system can retrieve the binary as a Document, or possibly load a vm with the right infrastructure.
+The System will run the program, streaming the Document to the stdin and capturing the stdout as output.
