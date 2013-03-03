@@ -35,3 +35,4 @@ Document headers should contain
 
 eventually Documents will be published (digitally signed) by the publisher and the notarized (digitally signed) by the System
 perhaps all members of a Group will have access to the group's private key so that Documents signed with the group;s public key can only be viewed by members of the Group
+
