@@ -122,6 +122,31 @@ System or org verifies
 System informs authorities so they can update credential links
 
 
+----
+
+The System is an agent XID registry
+
+Creating an agent is like creating a new project on github (new or by fork)
+
+XIDB = eXtensible Immutable Document Base
+
+support arbitrary authentication schemes, user chooses
+
+e.g. 2-pass, 
+initiate with PIN or password
+system sends PIN to email or handset
+user logs in with PIN
+
+system could select random 3-word pass phrase from corpus
+user keeps refreshing until they see one they can memorize
+
+An agent vouches for their own info by signing the agent doc
+Any other agent can vouch for the first by forking and sign the doc after verifying the info contained (e.g. name, email, phone, d-o-b, address, SIN, etc)
+The first agent can revise their info with the doc signed by the voucher
+
+in this way a trust network can be built up like in PKI
+ 
+
 
 
 
