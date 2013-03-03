@@ -107,9 +107,3 @@ elaborate on
 script ID is Program Document that tells how to run script interpreter
 input to program is ID of script
 
-
-
-
-
-
-
