@@ -10,6 +10,9 @@ Insert web player for video content
 xish
 knows how to load and run other adapters
 
+clip
+extracts a subset of a source for transclusion
+
 
 e.g. verbatim adapater:
 
