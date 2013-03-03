@@ -36,3 +36,18 @@ Document headers should contain
 eventually Documents will be published (digitally signed) by the publisher and the notarized (digitally signed) by the System
 perhaps all members of a Group will have access to the group's private key so that Documents signed with the group;s public key can only be viewed by members of the Group
 
+
+----
+
+To bootstrap the process I will initially be doing all the system operations manually,
+e.g. registering new agents, forking docs, signing docs, linking docs
+
+As requirements are nailed down I will be able to start automating the processes.
+
+I would like to record the design decisions for posterity using the system, and it seems 
+like a dev blog would be amenable to the task.
+
+Since a blog is relatively easy to implement (given a blog is the first example in the 
+node.js book, I could use that for inspiration)
+
+I could blog about developing the blog from scratch.
