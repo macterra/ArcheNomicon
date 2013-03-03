@@ -84,4 +84,45 @@ When someone forks a group they can characterize the type of relation:
 	* member removed
 
 Does it go without saying that the agent-id (owner) owns the Agent document?
+or maybe Agents may be owned by other agents
+
+Eg group owned by one leader or deceased owned by estate
+
+Each agent must have a canonical name
+
+May also have aliases, former names, birth name
+
+Each agent has a public key
+
+Add credentials, degrees
+Credentials are claimed by agents but verified by authority agents
+
+Same with group membership
+
+maybe agent ids should be hash of public key?
+
+if someone loses control of their agent (private key is compromised) they can always
+create a new agent and fork the old one at a revision before the compromise
+
+then they have to convince all others to update their references to the new id (which could be costly)
+but since it is possible, the System doesn't have to get involved in security breaches, it will be the responsibility of users
+
+need to come up with a story that describes the process
+e.g. 
+
+group notices that one member is acting out of character
+investigation shows that they recently changed their email address and password
+notifies user through old email address, turns out they have been hacked
+user creates new id by forking old one
+user requests to rejoin group with application vote
+new id voted in
+group expels hacker with expel vote (majority or all-but-1 for almost-unanimous)
+user informs System formally renouncing hacked ID
+System or org verifies 
+System informs authorities so they can update credential links
+
+
+
+
+
 

@@ -1,0 +1,13 @@
+Quote verbatim
+Output = input
+
+Apply css
+Xform xml to html
+
+Insert video
+Insert web player for video content
+
+xish
+knows how to load and run other adapters
+
+

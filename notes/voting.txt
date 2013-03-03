@@ -19,3 +19,14 @@ More complex votes are easily possible:
 	* majority vote with a subset of the group having veto power
 	* majority vote where some members get extra votes
 	* meridion vote where voting weight depends on reputation
+
+	
+A vote is a program that automatically revises a document when specific conditions are met 
+
+Membership changes should be done through special votes:
+
+Invitation 
+Quit
+Expelled 
+Application 
+
