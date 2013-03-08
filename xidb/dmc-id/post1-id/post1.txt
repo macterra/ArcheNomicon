@@ -1,0 +1,31 @@
+xidb blog post #1
+
+I created a new folder named xidb to contain all xidb docs, the "Vault".
+
+I created 2 agent folders under xidb, arc-id and dmc-id for the Archetech group agent and my agent respectively.
+I'm thinking these names will be replaced with GUIDs eventually, the symbolic names are just placeholders for now
+to make it easier to use them in manually created files.
+
+I moved the (empty) Rules.txt file to a new doc folder, rules-id, under arc-id. Like the agent xids above, this
+is just a placeholder for a GUID. At this point I'm thinking all documents will be stored under the owner agent's
+folder. This should make it easier for the system to find all docs owned by a given agent. When a user forks a doc
+the system can copy the doc folder to the user's agent folder (probably changing the owner xid in the header file
+at the same time.)
+
+Under the dmc-id agent folder I created subfolders for the SDG article, a post1-id folder for this document, 
+a blog-id folder (intended to be a container doc for all blog posts), and a prop1-id folder for microNomicon
+proposal #1.
+
+Each doc folder contains 3 files: head.xml, body.xml and a content file. Both the head.xml and body.xml start
+with a script tag, <script>xish-id</script>. This is intended sort of like a shell script that starts with a
+shebang such as "#! /bin/python" which tells the system how to execute the script. xish-id is a placeholder
+for an xi program that knows how to interpret xidb docs. It will be a reference to another xidb doc that
+describes how to load and run a particular version of the xi program (for backward compatibility).
+
+The head.xml contains metadata about the doc: publisher, author(s), name, date published, etc. The body.xml
+contains layout info and references to content which is an adapter/source pair. The adapter is a program
+that knows how to transform the source format to the output format such as pdf-to-html, or wiki-to-html,
+or plaintext-to-html, or xml-to-html (using CSS). If some format supercedes html in the future then another
+adapter can transform html to the new format theoretically.
+
+

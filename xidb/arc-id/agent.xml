@@ -1,0 +1,7 @@
+<agent>
+    <id>arc-id</id>
+    <name>Archetech</name> 
+    <members>
+        <member>dmc-id</member>
+    </members>
+</agent>
