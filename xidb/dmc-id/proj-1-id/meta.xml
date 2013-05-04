@@ -1,0 +1,35 @@
+<project>
+	<id>[proj-1-id]</id>
+	<revision>1</revision>
+	<timestamp>2013-05-04T17:15:36.480Z</timestamp>
+	<name>ArcheNomicon</name>
+	<description/>
+	<previous/>
+	<publisher>[dmc-id]</publisher>
+	<directory>
+		<doc>
+			<name>lib/The+Software+Development+Game.pdf</name>
+			<ref>a2860b408b379d66bdcb8b6ac424af65fded04b0</ref>
+		</doc>
+		<doc>
+			<name>props/prop1.txt</name>
+			<ref>6d0b3906d8703a2e7dcd56cec2ed723de3fdae14</ref>
+		</doc>
+	</diretory>
+	<contracts>
+		<publish>[private]</publish>
+		<revision>[unanimous]</revision>
+	</contracts>
+	<ratings>
+		<rating>
+			<agent>[dmc-id]</agent>
+			<value>0.5</value>
+			<timestamp/>
+			<comment/>
+		</rating>
+	<ratings>
+	<comments>
+		<comment/>
+	</comments>
+</project>
+
