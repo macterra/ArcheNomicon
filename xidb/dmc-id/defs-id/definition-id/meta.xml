@@ -1,0 +1,24 @@
+<xidoc>
+	<head>
+		<xid>[dmc-id]-[defs-id]-[definition-id]</xid>
+        <type/>
+		<names>
+			<xml>definition</xml>
+		</names>				
+        <definitions/>
+        <authors/>
+        <timestamp/>
+        <signatures/>
+        <votes/>
+        <comments/>
+    </head>
+    <body>
+		<description>A definition is a map between a [name] and a [vid]</description>
+		<schema>	
+			<definition>
+				<name/>
+				<vid/>
+			</definition>
+		</schema>	
+    </body>
+<xidoc>

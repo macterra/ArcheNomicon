@@ -1,0 +1,85 @@
+<xidoc>
+	<head>
+		<xid>[dmc-id]-[defs-id]-[dictionary-id]</xid>
+        <type>vid of [dmc-id]-[defs-id]-[stddefs-id]</type>
+		<name>dictionary</name>
+		<definitions>
+			<dictionary>
+				<namespace/> ; root namespace
+				<vid>vid of this</vid>
+			</dictionary>
+		</definitions>			
+        <authors>
+			<author>[dmc-id]</author>
+		</authors>
+        <timestamp/>
+        <signatures/>
+        <votes/>
+        <comments/>
+    </head>
+    <body>
+		<definitions>
+			<definition>
+				<name>xidoc</name>
+				<vid>xidoc vid</name>
+			</definition>           
+			<definition>
+				<name>head</name>
+				<vid>head vid</name>
+			</definition> 
+			<definition>
+				<name>xid</name>
+				<vid>xid vid</name>
+			</definition> 
+			<definition>
+			<definition>
+				<name>type</name>
+				<vid>type vid</name>
+			</definition> 
+			<definition>
+				<name>name</name>
+				<vid>name vid</name>
+			</definition>
+			<definition>
+				<name>definitions</name>
+				<vid>definitions vid</name>
+			</definition> 
+			<definition>
+				<name>dictionary</name>
+				<vid>dictionary vid</name>
+			</definition> 
+			<definition>
+				<name>namespace</name>
+				<vid>namespace vid</name>
+			</definition> 
+			<definition>
+				<name>vid</name>
+				<vid>vid vid</name>
+			</definition> 
+			<definition>
+				<name>authors</name>
+				<vid>authors vid</name>
+			</definition> 
+			<definition>
+				<name>author</name>
+				<vid>author vid</name>
+			</definition> 
+			<definition>
+				<name>timestamp</name>
+				<vid>timestamp vid</name>
+			</definition> 
+			<definition>
+				<name>votes</name>
+				<vid>votes vid</name>
+			</definition> 
+			<definition>
+				<name>comments</name>
+				<vid>comments vid</name>
+			</definition>  
+			<definition>
+				<name>body</name>
+				<vid>body vid</name>
+			</definition> 
+		</definitions>	 
+    </body>
+<xidoc>

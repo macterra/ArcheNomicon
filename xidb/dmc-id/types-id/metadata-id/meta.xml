@@ -1,0 +1,13 @@
+A metadata doc contains info about content
+
+- vid of content
+- source of content
+- type, e.g. "text/html", "text/css", "video/mpeg", "image/png", "audio/mp4", "application/xml"  (https://en.wikipedia.org/wiki/Internet_media_type)
+- size (bytes)
+
+the source can be
+- original content
+- URL 
+- adapter applied to existing content (md2html, css applied to xml, gif2png, etc)
+
+ 
