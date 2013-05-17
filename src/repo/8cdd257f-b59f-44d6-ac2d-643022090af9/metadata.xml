@@ -1,0 +1,16 @@
+
+<xidoc schema="[metadata schema hash]">
+     <xid>158ca33d0d8a0f55b480918d95f31ee634b44420</xid>
+     <name>squid</name>
+     <timestamp>2013-05-16T21:48:54.409850</timestamp>
+     <publisher>158ca33d0d8a0f55b480918d95f31ee634b44420</publisher>
+     <authors>
+          <author>158ca33d0d8a0f55b480918d95f31ee634b44420</author>
+     </authors>
+     <content>
+          <hash>158ca33d0d8a0f55b480918d95f31ee634b44420</hash>
+          <type>text/xml</type>
+     </content>
+     <access>public access contract</access>
+     <revision>private revision contract</revision>
+</xidoc>
