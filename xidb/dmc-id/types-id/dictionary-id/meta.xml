@@ -3,68 +3,12 @@
 		<xid>[dmc-id]-[defs-id]-[definition-id]</xid>
         <type>vid of [dmc-id]-[types-id]-[type-id]</type>
 		<name>dictionary</name>
-		<definitions>
-			<definition>
-				<name>xidoc</name>
-				<vid>xidoc vid</name>
-			</definition>           
-			<definition>
-				<name>head</name>
-				<vid>head vid</name>
-			</definition> 
-			<definition>
-				<name>xid</name>
-				<vid>xid vid</name>
-			</definition> 
-			<definition>
-				<name>xid</name>
-				<vid>xid vid</name>
-			</definition> 
-			<definition>
-				<name>type</name>
-				<vid>type vid</name>
-			</definition> 
-			<definition>
-				<name>name</name>
-				<vid>name vid</name>
-			</definition> 
-			<definition>
-				<name>body</name>
-				<vid>body vid</name>
-			</definition> 
-			<definition>
-				<name>definitions</name>
-				<vid>definitions vid</name>
-			</definition> 
-			<definition>
-				<name>definition</name>
-				<vid>definition vid</name>
-			</definition> 
-			<definition>
-				<name>vid</name>
-				<vid>vid vid</name>
-			</definition> 
-			<definition>
-				<name>authors</name>
-				<vid>authors vid</name>
-			</definition> 
-			<definition>
-				<name>author</name>
-				<vid>author vid</name>
-			</definition> 
-			<definition>
-				<name>timestamp</name>
-				<vid>timestamp vid</name>
-			</definition> 
-			<definition>
-				<name>votes</name>
-				<vid>votes vid</name>
-			</definition> 
-			<definition>
-				<name>comments</name>
-				<vid>comments vid</name>
-			</definition> 
-		</definitions>	 
+		<dictionary>
+			<definitions>
+				<namespace/> ; root namespace
+				<vid>vid of stddefs</vid>
+			<definitions>
+		</dictionary>
         <authors>
 			<author>[dmc-id]</author>
 		</authors>
@@ -74,7 +18,7 @@
         <comments/>
     </head>
     <body>
-		<description>A definitions element is a [set] of [definition] elements OR a vid of an xidoc of type [definitions]</description>
+		<description>A dictionary element is a [set] of [definition] elements or [definitions] elements</description>
 		<schema>	
 			<definition>
 				<name/>

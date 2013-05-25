@@ -2,6 +2,7 @@
 	<head>
 		<xid>[dmc-id]-[defs-id]-[dictionary-id]</xid>
         <type>vid of [dmc-id]-[defs-id]-[stddefs-id]</type>
+		<previous>vid of previous version</previous>
 		<name>dictionary</name>
 		<definitions>
 			<dictionary>
