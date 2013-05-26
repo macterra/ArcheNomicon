@@ -1,11 +1,13 @@
 <xidoc>
 	<head>
-		<xid>[dmc-id]-[defs-id]-[definition-id]</xid>
-        <type/>
+		<xid>af68f133-3210-4996-8d3d-1bfc43bd01a7</xid>
+        <type>definition type vid</type>
+        <previous/>
 		<names>
-			<xml>definition</xml>
+			<xml>definition definition</xml>
 		</names>				
         <definitions/>
+        <publisher/>
         <authors/>
         <timestamp/>
         <signatures/>

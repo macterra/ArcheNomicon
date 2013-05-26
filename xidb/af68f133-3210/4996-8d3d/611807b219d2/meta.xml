@@ -3,7 +3,7 @@
         <xid>af68f133-3210-4996-8d3d-611807b219d2</xid>
         <type>1c441c818e79b1a90e7237e6f21ba417cc7b79e1</type>
         <previous>1c441c818e79b1a90e7237e6f21ba417cc7b79e1</previous>
-        <name>dictionary</name>
+        <name>standard definitions</name>
         <definitions>
             <dictionary>
                 <namespace/> ; root namespace

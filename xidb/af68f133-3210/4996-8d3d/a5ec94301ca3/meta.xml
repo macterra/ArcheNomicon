@@ -1,0 +1,24 @@
+<xidoc>
+	<head>
+		<xid>af68f133-3210-4996-8d3d-a5ec94301ca3</xid>
+        <type>definition type vid</type>
+		<name>dictionary</name>
+		<dictionary/>
+        <authors>
+			<author>[dmc-id]</author>
+		</authors>
+        <timestamp/>
+        <signatures/>
+        <votes/>
+        <comments/>
+    </head>
+    <body>
+		<description>A dictionary element is a [set] of [definition] elements OR a vid of an xidoc of type [dictionary]</description>
+		<schema>	
+			<definition>
+				<name/>
+				<vid/>
+			</definition>
+		</schema>	
+    </body>
+<xidoc>
