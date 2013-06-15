@@ -3,9 +3,9 @@
   
   <rect x="0" y="0" height="600" width="600" fill="none" stroke-width="4" stroke="black" />
   
-  <g transform="translate(50,50), scale(0.5)">
-    <path d="M682.1,559.2 206.1,904.5 500,0 793.9,904.5 317.9,559.2" fill="none" stroke-width="50" stroke="black"  />
-    <circle r="500" cx="500" cy="500" fill="none" stroke-width="50" stroke="black" />
+  <g id="logo" transform="translate(50,50), scale(0.5)" fill="none" stroke-width="50" stroke="black">
+    <path d="M682.1,559.2 206.1,904.5 500,0 793.9,904.5 317.9,559.2"  />
+    <circle r="500" cx="500" cy="500" />
   </g>
 </svg>
 
