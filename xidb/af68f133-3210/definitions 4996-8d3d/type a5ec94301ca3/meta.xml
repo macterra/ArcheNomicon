@@ -2,7 +2,7 @@
 	<head>
 		<xid>af68f133-3210-4996-8d3d-a5ec94301ca3</xid>
         <type>definition type vid</type>
-		<name>dictionary</name>
+		<name>type definition</name>
 		<dictionary/>
         <authors>
 			<author>[dmc-id]</author>
@@ -13,12 +13,9 @@
         <comments/>
     </head>
     <body>
-		<description>A dictionary element is a [set] of [definition] elements OR a vid of an xidoc of type [dictionary]</description>
+		<description>A type element references the vid of a type document</description>
+        <xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <xs:element name="type" type="vid" />
 		<schema>	
-			<definition>
-				<name/>
-				<vid/>
-			</definition>
-		</schema>	
     </body>
 <xidoc>
