@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600" height="600">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="800" height="800">
   
-  <!-- border
-  <rect x="0" y="0" height="600" width="600" fill="none" stroke-width="4" stroke="black" />
-  -->
+  <!-- border  -->
+  <rect x="0" y="0" height="800" width="800" fill="none" stroke-width="4" stroke="black" />
+
   
-  <g id="logo" transform="translate(50,50), scale(0.5)" fill="none" stroke-width="50" stroke="black">
+  <g id="logo" transform="translate(150,150), scale(0.5)" fill="none" stroke-width="80" stroke="black">
     <path d="M682.1,559.2 206.1,904.5 500,0 793.9,904.5 317.9,559.2"  />
     <circle r="500" cx="500" cy="500" />
   </g>
