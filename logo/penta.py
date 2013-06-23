@@ -1,7 +1,7 @@
 import math
 
 sides = 5
-len = 0.383
+len = 1 #0.383
 
 for i in range(sides):
     a = (i * 2 * math.pi/sides) - (math.pi)
