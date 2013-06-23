@@ -1,16 +1,16 @@
 <xidoc>
 	<head>
-		<xid>[dmc-id]-[defs-id]-[definition-id]</xid>
+		<xid>af68f133-3210-6e30-43d5-97ddce6b238c</xid>
         <type>vid of [dmc-id]-[types-id]-[type-id]</type>
-		<name>dictionary</name>
-		<dictionary>
-			<definitions>
-				<namespace/> ; root namespace
-				<vid>vid of stddefs</vid>
-			<definitions>
-		</dictionary>
+		<name>dictionary type</name>
+        <definitions>
+            <dictionary>
+                <namespace/> 
+                <xid>af68f133-3210-4240-90cc-611807b219d2</vid>
+            </dictionary>
+        <definitions>
         <authors>
-			<author>[dmc-id]</author>
+			<author>af68f133-3210</author>
 		</authors>
         <timestamp/>
         <signatures/>

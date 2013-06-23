@@ -1,11 +1,13 @@
 <xidoc>
 	<head>
 		<xid>af68f133-3210-4996-8d3d-a5ec94301ca3</xid>
-        <type>definition type vid</type>
+        <type>af68f133-3210-4996-8d3d1bfc43bd01a7</type>
 		<name>type definition</name>
-		<dictionary/>
+        <definitions>
+            <dictionary>
+        </definitions>
         <authors>
-			<author>[dmc-id]</author>
+			<author>af68f133-3210</author>
 		</authors>
         <timestamp/>
         <signatures/>

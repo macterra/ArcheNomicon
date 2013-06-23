@@ -1,20 +1,20 @@
 <xidoc>
     <head>
-        <xid>af68f133-3210-4996-8d3d-611807b219d2</xid>
-        <type>1c441c818e79b1a90e7237e6f21ba417cc7b79e1</type>
-        <previous>1c441c818e79b1a90e7237e6f21ba417cc7b79e1</previous>
+        <xid>af68f133-3210-4240-90cc-611807b219d2</xid>
+        <type>af68f133-3210-6e30-43d5-97ddce6b238c</type>
+        <previous></previous>
         <name>standard definitions</name>
         <definitions>
             <dictionary>
-                <namespace/> ; root namespace
-                <vid>vid of this</vid>
+                <namespace/> 
+                <xid>af68f133-3210-4240-90cc-611807b219d2</xid>
             </dictionary>
         </definitions>
-        <publisher>vid of dmc</publisher>
+        <publisher>af68f133-3210</publisher>
         <authors>
-            <author>[dmc-id]</author>
+            <author>af68f133-3210</author>
         </authors>
-        <timestamp/>
+        <timestamp>2013-06-23T21:51:10.619872</timestamp>
         <signatures/>
         <votes/>
         <comments/>
@@ -23,64 +23,63 @@
         <definitions>
             <definition>
                 <name>xidoc</name>
-                <vid>xidoc vid</name>
+                <xid>af68f133-3210-4996-8d3d-4b3dfb89ca03</xid>
             </definition>           
             <definition>
                 <name>head</name>
-                <vid>head vid</name>
+                <xid>af68f133-3210-4996-8d3d-63f20c649121</xid>
             </definition> 
             <definition>
                 <name>xid</name>
-                <vid>xid vid</name>
+                <xid>af68f133-3210-4996-8d3d-cd60b123557b</xid>
             </definition> 
             <definition>
-            <definition>
                 <name>type</name>
-                <vid>type vid</name>
+                <xid>af68f133-3210-4996-8d3d-a5ec94301ca3</xid>
             </definition> 
             <definition>
                 <name>name</name>
-                <vid>name vid</name>
+                <xid>af68f133-3210-4996-8d3d-cb061ab33e1d</xid>
             </definition>
             <definition>
                 <name>definitions</name>
-                <vid>definitions vid</name>
+                <xid>af68f133-3210-4996-8d3d-0c9b4afe7c56</xid>
             </definition> 
             <definition>
                 <name>dictionary</name>
-                <vid>dictionary vid</name>
+                <xid>af68f133-3210-4996-8d3d-f60811101916</xid>
             </definition> 
             <definition>
                 <name>namespace</name>
-                <vid>namespace vid</name>
+                <xid>af68f133-3210-4996-8d3d-c389ccdf1203</xid>
             </definition> 
             <definition>
                 <name>vid</name>
-                <vid>vid vid</name>
+                <xid>af68f133-3210-4996-8d3d-cd60b123557b</xid>
             </definition> 
             <definition>
                 <name>authors</name>
-                <vid>authors vid</name>
+                <xid>af68f133-3210-4996-8d3d-12115dedb536</xid>
             </definition> 
             <definition>
                 <name>author</name>
-                <vid>author vid</name>
+                <xid>af68f133-3210-4996-8d3d-411de6dac631</xid>
             </definition> 
             <definition>
                 <name>timestamp</name>
-                <vid>timestamp vid</name>
+                <xid>af68f133-3210-4996-8d3d-7e92885d337a</xid>
             </definition> 
             <definition>
                 <name>votes</name>
-                <vid>votes vid</name>
+                <xid>af68f133-3210-4996-8d3d- bc819f8a2867</xid>
             </definition> 
             <definition>
                 <name>comments</name>
-                <vid>comments vid</name>
+                <xid>af68f133-3210-4996-8d3d-9b959ad69366</xid>
             </definition>  
             <definition>
                 <name>body</name>
-                <vid>body vid</name>
+                <xid>af68f133-3210-4996-8d3d-badf628c78a4</xid>
             </definition> 
         </definitions>   
     </body>
