@@ -1,8 +1,8 @@
 <xidoc>
-	<head>
-		<xid>af68f133-3210-4996-8d3d-a5ec94301ca3</xid>
+    <head>
+        <xid>af68f133-3210-4996-8d3d-a5ec94301ca3</xid>
         <type>af68f133-3210-4996-8d3d1bfc43bd01a7</type>
-		<name>type definition</name>
+        <name>type definition</name>
         <previous></previous>
         <definitions>
             <dictionary>
@@ -20,9 +20,9 @@
         <comments/>
     </head>
     <body>
-		<description>A type element references the xid of a type document</description>
+        <description>A type element references the xid of a type document</description>
         <xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
             <xs:element name="type" type="xid" />
-		<schema>	
+        <schema>    
     </body>
 <xidoc>

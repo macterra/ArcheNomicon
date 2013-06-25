@@ -1,8 +1,8 @@
 <xidoc>
-	<head>
-		<xid>af68f133-3210-6e30-43d5-97ddce6b238c</xid>
+    <head>
+        <xid>af68f133-3210-6e30-43d5-97ddce6b238c</xid>
         <type>vid of [dmc-id]-[types-id]-[type-id]</type>
-		<name>dictionary type</name>
+        <name>dictionary type</name>
         <definitions>
             <dictionary>
                 <namespace/> 
@@ -10,20 +10,20 @@
             </dictionary>
         <definitions>
         <authors>
-			<author>af68f133-3210</author>
-		</authors>
+            <author>af68f133-3210</author>
+        </authors>
         <timestamp/>
         <signatures/>
         <votes/>
         <comments/>
     </head>
     <body>
-		<description>A dictionary element is a [set] of [definition] elements or [definitions] elements</description>
-		<schema>	
-			<definition>
-				<name/>
-				<vid/>
-			</definition>
-		</schema>	
+        <description>A dictionary element is a [set] of [definition] elements or [definitions] elements</description>
+        <schema>    
+            <definition>
+                <name/>
+                <vid/>
+            </definition>
+        </schema>   
     </body>
 <xidoc>

@@ -1,8 +1,8 @@
 <xidoc>
-	<head>
-		<xid>af68f133-3210-4286-869a-deac6ee7761e</xid>
+    <head>
+        <xid>af68f133-3210-4286-869a-deac6ee7761e</xid>
         <type>af68f133-3210-6e30-43d5-8ef70afb1062</type>
-		<name>dmc</name>
+        <name>dmc</name>
         <definitions>
             <dictionary>
                 <namespace/> 
@@ -10,8 +10,8 @@
             </dictionary>
         <definitions>
         <authors>
-			<author>af68f133-3210-4286-869a-deac6ee7761e</author>
-		</authors>
+            <author>af68f133-3210-4286-869a-deac6ee7761e</author>
+        </authors>
         <timestamp/>
         <signatures/>
         <votes/>
@@ -22,3 +22,4 @@
         <mailbox/>
     </body>
 <xidoc>
+
