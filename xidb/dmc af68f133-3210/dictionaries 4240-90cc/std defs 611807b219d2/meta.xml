@@ -38,6 +38,10 @@
                 <xid>af68f133-3210-4996-8d3d-a5ec94301ca3</xid>
             </definition> 
             <definition>
+                <name>previous</name>
+                <xid>af68f133-3210-4996-8d3d-b0d2558a93ff</xid>
+            </definition> 
+            <definition>
                 <name>name</name>
                 <xid>af68f133-3210-4996-8d3d-cb061ab33e1d</xid>
             </definition>

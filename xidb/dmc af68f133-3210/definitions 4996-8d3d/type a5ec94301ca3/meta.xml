@@ -3,21 +3,26 @@
 		<xid>af68f133-3210-4996-8d3d-a5ec94301ca3</xid>
         <type>af68f133-3210-4996-8d3d1bfc43bd01a7</type>
 		<name>type definition</name>
+        <previous></previous>
         <definitions>
             <dictionary>
+                <namespace/> 
+                <xid>af68f133-3210-4240-90cc-611807b219d2</xid>
+            </dictionary>
         </definitions>
+        <publisher>af68f133-3210</publisher>
         <authors>
-			<author>af68f133-3210</author>
-		</authors>
-        <timestamp/>
+            <author>af68f133-3210</author>
+        </authors>
+        <timestamp>2013-06-23T21:51:10.619872</timestamp>
         <signatures/>
         <votes/>
         <comments/>
     </head>
     <body>
-		<description>A type element references the vid of a type document</description>
+		<description>A type element references the xid of a type document</description>
         <xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-            <xs:element name="type" type="vid" />
+            <xs:element name="type" type="xid" />
 		<schema>	
     </body>
 <xidoc>
